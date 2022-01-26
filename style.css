@@ -1,0 +1,29 @@
+div {
+    box-shadow: 10px 10px grey;
+    background-color: yellow;
+    border-color:blue;
+    border-style: solid;
+    width: 350px;
+    height: auto;
+    padding: 25px; 
+
+    }
+
+    img{
+        border-style: dashed;
+        border-radius: 50px;
+    }
+
+    li {
+     font-style:italic;
+     margin: 10px;
+
+    }
+
+    body {
+        background-image: url('https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/apple/81/microphone_1f3a4.png');
+    }
+
+    h1, h2, h6 {
+        font-family:Arial, Helvetica, sans-serif ;
+    }
